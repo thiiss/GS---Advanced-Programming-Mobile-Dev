@@ -1,6 +1,4 @@
 # Controle de Missão Espacial - Orbital Mission Control Platform 
-***Materia:** Advanced Programming And Mobile Dev
-***Sala:** 3ECR
 
 ## Descrição do Projeto
 Este projeto consiste no desenvolvimento de uma solução integrada para o controle de missões espaciais, composta por um backend robusto e um aplicativo mobile funcional. O sistema visa gerenciar sensores, módulos, eventos operacionais e alertas críticos de uma missão em tempo real.
