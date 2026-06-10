@@ -1,0 +1,13 @@
+import { SensorModulo } from "./sensor";
+
+export type StatusOperacional = "normal" | "atencao" | "critico";
+
+export type LeituraSensor = {
+  id: number;
+  sensor: SensorModulo;
+  valor: number;
+  unidade: string;
+  statusOperacional: StatusOperacional;
+  timestamp: string;
+  observacoes?: string;
+};
